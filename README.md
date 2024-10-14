@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a development grade FastAPI for the Vehicle Damage Detection Assignment
+This project is a development grade FastAPI for the Vehicle Damage Detection Assignment. I didn't include a dockerfile due to time constraints.
 
 ## Project Structure
 - **app/app.py**: Contains the FastAPI application and endpoints for vehicle damage detection
